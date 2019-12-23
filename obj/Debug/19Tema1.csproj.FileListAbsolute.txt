@@ -1,0 +1,6 @@
+C:\Users\b.gherman\source\repos\19Tema1\bin\Debug\19Tema1.exe.config
+C:\Users\b.gherman\source\repos\19Tema1\bin\Debug\19Tema1.exe
+C:\Users\b.gherman\source\repos\19Tema1\bin\Debug\19Tema1.pdb
+C:\Users\b.gherman\source\repos\19Tema1\obj\Debug\19Tema1.csprojAssemblyReference.cache
+C:\Users\b.gherman\source\repos\19Tema1\obj\Debug\19Tema1.exe
+C:\Users\b.gherman\source\repos\19Tema1\obj\Debug\19Tema1.pdb
